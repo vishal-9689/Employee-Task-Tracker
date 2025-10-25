@@ -32,7 +32,7 @@ The **Employee Task Tracker** enables employees to:
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/employee-task-tracker.git
+git clone https://github.com/vishal-9689/employee-task-tracker.git
 cd employee-task-tracker
 ```
 
