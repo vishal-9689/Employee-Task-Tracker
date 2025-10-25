@@ -1,11 +1,11 @@
-# 🧩 Employee Task Tracker
+#  Employee Task Tracker
 
 A **MERN stack** application that allows employees to efficiently manage, track, and organize their daily tasks.  
 Includes secure authentication, task creation, updating, deletion, and filtering — all in a clean, responsive UI.
 
 ---
 
-## 🚀 Tech Stack & Tools
+##  Tech Stack & Tools
 
 | Layer | Technology | Description |
 |-------|-------------|-------------|
@@ -18,13 +18,13 @@ Includes secure authentication, task creation, updating, deletion, and filtering
 
 ---
 
-## 🧾 Project Overview
+##  Project Overview
 
 The **Employee Task Tracker** enables employees to:
-- 🔐 Register and log in securely using JWT authentication  
-- 📝 Add, update, and delete tasks via clean modals  
-- 🔍 Filter and sort tasks by status, priority, or creation date  
-- 📋 View all tasks in an organized, responsive dashboard  
+-  Register and log in securely using JWT authentication  
+-  Add, update, and delete tasks via clean modals  
+-  Filter and sort tasks by status, priority, or creation date  
+-  View all tasks in an organized, responsive dashboard  
 
 ---
 
@@ -144,21 +144,13 @@ employee-task-tracker/
 
 ---
 
-## 🧭 Example User Flow
+##  Example User Flow
 
 1. User registers or logs in securely (JWT token stored in localStorage).  
 2. Dashboard displays user’s tasks as cards.  
 3. User can add a new task using the **Add Task** modal.  
 4. Tasks can be updated or deleted directly from the task cards via **Update/Delete modals**.  
 5. User can apply filters and sorting options to organize their view.  
-
----
-
-## 🖼️ Screenshots / Demo Preview
-
-| Dashboard | Add Task Modal | Update Task Modal |
-|------------|----------------|-------------------|
-| ![Dashboard](./screenshots/dashboard.png) | ![Add Task](./screenshots/add_task.png) | ![Update Task](./screenshots/update_task.png) |
 
 ---
 
@@ -178,22 +170,22 @@ VITE_API_BASE_URL=http://localhost:5000
 
 ---
 
-## 💡 Future Enhancements
+##  Future Enhancements
 
-- ✅ Task priority levels (High, Medium, Low)
-- ✅ Task completion status toggle
-- 🔜 Team management & role-based dashboards
-- 🔜 Notifications & reminders via email
-- 🔜 Dark mode UI
+-  Task priority levels (High, Medium, Low)
+-  Task completion status toggle
+-  Team management & role-based dashboards
+-  Notifications & reminders via email
+-  Dark mode UI
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Vishal Sharma**  
-📧 [Email Me](mailto:your.email@example.com)  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🐙 [GitHub](https://github.com/yourusername)
+ [Email Me](mailto:panditvisha1364@gmail.com)  
+ [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/vishal-sharma-73184522a/))  
+ [GitHub](https://github.com/vishal-9689)
 
 ---
 
