@@ -165,7 +165,7 @@ PORT=5000
 
 **Frontend (.env):**
 ```env
-VITE_API_BASE_URL=http://localhost:5000
+VITE_API_BASE_URL=http://localhost:5000/api
 ```
 
 ---
@@ -184,7 +184,7 @@ VITE_API_BASE_URL=http://localhost:5000
 
 **Vishal Sharma**  
  [Email Me](mailto:panditvisha1364@gmail.com)  
- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/vishal-sharma-73184522a/)  
+ [LinkedIn](https://www.linkedin.com/in/vishal-sharma-73184522a/)  
  [GitHub](https://github.com/vishal-9689)
 
 ---
